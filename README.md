@@ -16,3 +16,6 @@
 # 구현 결과
 - 데이터 수가 적고, 경계선으로 트레이닝을 하였지만, 이미지에서 상의 부분을 잘 검출하였습니다. (정확도는 데이터양이 적어 의미가 없어 하지 않았습니다.) 
   원하는 출력은 경계선이었지만, scatter 느낌으로 원하는 영역을 표시하였습니다.
+
+# 데이터
+https://drive.google.com/drive/folders/1esBgGGzf_C_hDmwxhjfx4SiHl3S_fPGq?usp=sharing
