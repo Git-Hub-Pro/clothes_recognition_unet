@@ -16,7 +16,7 @@
 # 구현 결과
 - 데이터 수가 적고, 경계선으로 트레이닝을 하였지만, 이미지에서 상의 부분을 잘 검출하였습니다.
   원하는 출력은 경계선이었지만, scatter 느낌으로 원하는 영역을 표시하였습니다.
-- mean-iou 평가방법을 적용하는 내용을 추가하였습니다.
+- mean-iou 평가방법을 적용하는 내용을 추가하였습니다.adam optimizer는 0.39 가 나오고, nadam으로 사용한 결과 0.51이 나왔습니다.
 
 # 데이터
 https://drive.google.com/drive/folders/1esBgGGzf_C_hDmwxhjfx4SiHl3S_fPGq?usp=sharing
